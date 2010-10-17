@@ -1,0 +1,9 @@
+C’est donc une première version d’un petit soft sans grande prétention, placé en GPLv3 bien entendu.
+Celui ci permet d’envoyer et de récupérer des pastebins.
+Il permet également, grâce à un petit fichier de configuration rudimentaire de sauvegarder les paramètres tel que le nom,
+le sous-domaine choisis, ou encore la durée d’expiration et le caractère privé ou non. Sans plus tarder, une petite présentation de PygtkPaste.
+
+http://www.nicosphere.net/pygtkpaste-une-application-gui-pour-pastebin-com-1836/
+
+
+<nicolas.caen@gmail.com>

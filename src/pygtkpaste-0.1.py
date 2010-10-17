@@ -1,0 +1,1 @@
+/home/nicolas/pygtkpaste/pygtkpaste-0.1.py
